@@ -36,9 +36,10 @@ temp_raw <- read_csv(here("data", "raw", "annual-temperature-anomalies.csv"),
 # OWID files: Entity, Code, Year, <value>. Rename the value column whatever its label.
 temp <- temp_raw |>
   rename(iso3 = Code, year = Year) |>
+  mutate(iso3 = if_else(iso3 == "OWID_KOS", "XKX", iso3)) |>   # OWID's code for Kosovo
   rename(temp_anomaly = 4) |>
   filter(!is.na(iso3), nchar(iso3) == 3) |>
-  select(iso3, year, temp_anomaly)
+  dplyr::select(iso3, year, temp_anomaly)
 
 # ---- 3. Join and check ------------------------------------------------------
 panel <- bt_full |>
@@ -56,6 +57,7 @@ if (nrow(missing_temp) > 0) {
   print(missing_temp)
 }
 
+dir.create(here("data", "processed"), recursive = TRUE, showWarnings = FALSE)
 write_csv(panel, here("data", "processed", "bt_climate_panel.csv"))
 message("Saved panel: ", nrow(panel), " rows, ", length(study_countries), " countries, ",
         min(study_years), "-", max(study_years))

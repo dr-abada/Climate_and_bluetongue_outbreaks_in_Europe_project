@@ -36,6 +36,7 @@ EU Animal Health Law (applied from 21 April 2021). The models include a reportin
 - Country-year panel with zero-filled years without outbreaks
 - Poisson GLM (baseline) → negative-binomial GLM → negative-binomial GLMM with a country random intercept (`glmmTMB`)
 - Residual checks with `DHARMa`; results as incidence rate ratios
+- Sensitivity analyses: excluding the 2006–2008 BTV-8 epidemic, pre-2021 only, year random effect, lagged anomaly
 - Choropleth map with `sf`
 
 ## How to reproduce
@@ -44,6 +45,7 @@ EU Animal Health Law (applied from 21 April 2021). The models include a reportin
 source("R/00_setup.R")         # install/load packages
 source("R/01_prepare_data.R")  # build data/processed/bt_climate_panel.csv
 source("R/02_models.R")        # fit models, save output/models.rds
+source("R/03_sensitivity.R")   # robustness checks + forest plot
 quarto::quarto_render("report.qmd")
 ```
 
@@ -56,6 +58,13 @@ R/                 scripts, run in order
 output/            models and figures
 report.qmd         Quarto report
 ```
+
+## Key finding
+
+A +1 °C annual anomaly was associated with ~9× more notified outbreaks in the main model
+(IRR 9.5, 95% CI 2.9–31), but the estimate fell to 3.3 without the 2006–2008 BTV-8 epidemic and
+to 1.9 (0.7–5.3) with a year random effect. At country-year resolution, the climate signal cannot
+be separated from Europe-wide epidemic waves and serotype incursions.
 
 ## Limitations
 

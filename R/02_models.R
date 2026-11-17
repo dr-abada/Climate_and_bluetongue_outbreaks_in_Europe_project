@@ -1,6 +1,5 @@
 # 02_models.R -- count models of bluetongue outbreaks vs temperature anomaly
 library(tidyverse)
-library(MASS)       # glm.nb
 library(glmmTMB)    # mixed models for counts
 library(DHARMa)     # residual checks for GLMMs
 library(here)
@@ -28,6 +27,7 @@ print(summary(m_nbmm))
 irr <- exp(fixef(m_nbmm)$cond["temp_anomaly"])
 message("IRR per +1 °C anomaly: ", round(irr, 2))
 
+dir.create(here("output"), showWarnings = FALSE)
 sim <- simulateResiduals(m_nbmm)
 png(here("output", "dharma_residuals.png"), width = 1400, height = 700, res = 150)
 plot(sim)

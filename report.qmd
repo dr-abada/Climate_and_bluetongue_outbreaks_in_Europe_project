@@ -7,6 +7,11 @@ format:
     toc: true
     code-fold: true
     embed-resources: true
+  pdf:
+    toc: true
+    echo: false
+    fig-width: 7
+    fig-height: 4.5
 execute:
   warning: false
   message: false
@@ -63,7 +68,7 @@ panel |>
 
 ```{r map}
 europe <- ne_countries(scale = "medium", continent = "Europe", returnclass = "sf") |>
-  select(iso3 = iso_a3_eh, geometry)
+  dplyr::select(iso3 = iso_a3_eh, geometry)
 
 totals <- panel |> group_by(iso3) |> summarise(outbreaks = sum(outbreaks))
 
@@ -71,10 +76,15 @@ europe |>
   left_join(totals, by = "iso3") |>
   ggplot() +
   geom_sf(aes(fill = outbreaks), colour = "white", linewidth = 0.2) +
-  scale_fill_viridis_c(trans = "log1p", na.value = "grey90", name = "Outbreaks") +
+  scale_fill_viridis_c(trans = "log1p", na.value = "grey90",
+                       breaks = c(0, 10, 100, 1000, 10000, 50000),
+                       labels = scales::label_comma(),
+                       name = "Outbreaks\n(log scale)") +
   coord_sf(xlim = c(-12, 35), ylim = c(34, 71)) +
-  labs(title = "Total bluetongue outbreaks notified, by country") +
-  theme_void()
+  labs(title = "Total bluetongue outbreaks notified to ADIS, 2005–2025",
+       caption = "Grey: no outbreak notified or not covered by ADIS") +
+  theme_void() +
+  theme(legend.key.height = unit(1.2, "cm"))
 ```
 
 ## Model
@@ -94,7 +104,7 @@ AIC(models$pois, models$nb, models$nbmm)
 
 ```{r model-table}
 tidy(models$nbmm, effects = "fixed", conf.int = TRUE, exponentiate = TRUE) |>
-  select(term, IRR = estimate, conf.low, conf.high, p.value) |>
+  dplyr::select(term, IRR = estimate, conf.low, conf.high, p.value) |>
   mutate(across(where(is.numeric), \(x) round(x, 3)))
 ```
 
@@ -103,10 +113,34 @@ outbreaks for a +1 °C annual anomaly, holding country and trend constant.
 
 ![Residual diagnostics (DHARMa)](output/dharma_residuals.png)
 
+## Sensitivity analyses
+
+The main estimate could be driven by the BTV-8 epidemic of 2006–2008, which coincided with
+very warm years in northern Europe. I refitted the model five ways, each removing one possible
+confounder (`R/03_sensitivity.R`).
+
+```{r sensitivity-table}
+read_csv(here("output", "sensitivity_irr.csv"), show_col_types = FALSE)
+```
+
+![Temperature effect across models (IRR per +1 °C, 95% CI, log scale)](output/sensitivity_forest.png)
+
 ## Results
 
-*Write 3–4 sentences here once the model has run: the IRR with its confidence interval, whether
-the association is clear or uncertain, and what the country effects suggest.*
+Bluetongue outbreak counts were strongly over-dispersed (Poisson dispersion ratio ≈ 8,300), and
+the negative-binomial mixed model with a country random intercept fitted best (AIC 2,910 vs
+2,958 without it and 875,591 for Poisson).
+
+In the main model, a +1 °C annual temperature anomaly was associated with about nine times more
+notified outbreaks (IRR 9.5, 95% CI 2.9–31). This estimate is not robust. Excluding the
+2006–2008 BTV-8 epidemic reduced it to 3.3 (1.1–10.1). Adding a year random effect, which
+absorbs Europe-wide shocks such as epidemic waves and vaccination campaigns, reduced it to
+1.9 (0.7–5.3), no longer distinguishable from no effect. The very large lagged estimate
+(IRR 43.6) mainly reflects the warm 2006 being followed by the 2007 BTV-8 wave.
+
+Warmer years are therefore associated with more bluetongue outbreaks, but at country-year
+resolution this association cannot be separated from epidemic waves and serotype incursions.
+When countries are compared within the same year, the effect remains positive but uncertain.
 
 ## Limitations
 

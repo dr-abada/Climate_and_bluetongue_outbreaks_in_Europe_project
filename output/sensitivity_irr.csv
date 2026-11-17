@@ -1,0 +1,6 @@
+model,n,IRR,ci_low,ci_high,p
+1. Main model (2005-2025),630,9.47,2.89,31.05,2.1e-4
+2. Excluding BTV-8 epidemic (2006-2008),540,3.34,1.11,10.07,0.032
+3. Before Animal Health Law (2005-2020),480,16.28,3.97,66.71,1.1e-4
+4. Year random effect (Europe-wide shocks),630,1.88,0.67,5.25,0.23
+5. Previous year's anomaly (lag 1),600,43.59,15.9,119.47,2.2e-13
