@@ -1,0 +1,335 @@
+year,country,iso3,code_in_report,serotype,outbreaks,label,page
+2021,Spain,ESP,ESP,1,1,Bluetongue virus (Inf. with) / 1,1
+2021,Italy,ITA,ITA,1,3,Bluetongue virus (Inf. with) / 1,1
+2021,Greece,GRC,GRC,16,1,Bluetongue virus (Inf. with) / 16,1
+2021,Italy,ITA,ITA,3,57,Bluetongue virus (Inf. with) / 3,1
+2021,Bulgaria,BGR,BGR,4,1,Bluetongue virus (Inf. with) / 4,1
+2021,Spain,ESP,ESP,4,15,Bluetongue virus (Inf. with) / 4,1
+2021,France,FRA,FRA,4,5,Bluetongue virus (Inf. with) / 4,1
+2021,Greece,GRC,GRC,4,11,Bluetongue virus (Inf. with) / 4,1
+2021,Croatia,HRV,HRV,4,1,Bluetongue virus (Inf. with) / 4,1
+2021,Italy,ITA,ITA,4,25,Bluetongue virus (Inf. with) / 4,1
+2021,Portugal,PRT,PRT,4,22,Bluetongue virus (Inf. with) / 4,1
+2021,Romania,ROU,ROU,4,27,Bluetongue virus (Inf. with) / 4,1
+2021,Belgium,BEL,BEL,8,3,Bluetongue virus (Inf. with) / 8,1
+2021,France,FRA,FRA,8,5,Bluetongue virus (Inf. with) / 8,1
+2021,Greece,GRC,GRC,Other,1,Bluetongue virus (Inf. with) / Other,1
+2021,Bulgaria,BGR,BGR,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2021,Germany,DEU,DEU,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2018,Italy,ITA,ITA,1,28,Bluetongue virus (Inf. with) / 1,1
+2018,Greece,GRC,GRC,16,18,Bluetongue virus (Inf. with) / 16,1
+2018,Italy,ITA,ITA,3,23,Bluetongue virus (Inf. with) / 3,1
+2018,Cyprus,CYP,CYP,4,27,Bluetongue virus (Inf. with) / 4,1
+2018,Spain,ESP,ESP,4,13,Bluetongue virus (Inf. with) / 4,1
+2018,France,FRA,FRA,4,33,Bluetongue virus (Inf. with) / 4,1
+2018,Italy,ITA,ITA,4,71,Bluetongue virus (Inf. with) / 4,1
+2018,Portugal,PRT,PRT,4,7,Bluetongue virus (Inf. with) / 4,1
+2018,Germany,DEU,DEU,8,1,Bluetongue virus (Inf. with) / 8,1
+2018,France,FRA,FRA,8,590,Bluetongue virus (Inf. with) / 8,1
+2018,Switzerland,CHE,CHE,8,91,Bluetongue virus (Inf. with) / 8,1
+2018,France,FRA,FRA,Other,1,Bluetongue virus (Inf. with) / Other,1
+2018,Turkey,TUR,TUR,Other,1,Bluetongue virus (Inf. with) / Other,1
+2018,France,FRA,FRA,Untyped or partially typed,47,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2018,Italy,ITA,ITA,Untyped or partially typed,6,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2012,Spain,ESP,ESP,1,4,Bluetongue virus (Inf. with) / 1,1
+2012,Italy,ITA,ITA,1,113,Bluetongue virus (Inf. with) / 1,1
+2012,Portugal,PRT,PRT,1,3,Bluetongue virus (Inf. with) / 1,1
+2012,Italy,ITA,ITA,2,3,Bluetongue virus (Inf. with) / 2,1
+2012,Spain,ESP,ESP,4,3,Bluetongue virus (Inf. with) / 4,1
+2012,Greece,GRC,GRC,4,60,Bluetongue virus (Inf. with) / 4,1
+2012,Italy,ITA,ITA,9,2,Bluetongue virus (Inf. with) / 9,1
+2012,Greece,GRC,GRC,Other,1,Bluetongue virus (Inf. with) / Other,1
+2012,Italy,ITA,ITA,Other,4,Bluetongue virus (Inf. with) / Other,1
+2012,Greece,GRC,GRC,Untyped or partially typed,30,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2012,Italy,ITA,ITA,Untyped or partially typed,201,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2011,Spain,ESP,ESP,1,4,Bluetongue virus (Inf. with) / 1,1
+2011,Italy,ITA,ITA,1,3,Bluetongue virus (Inf. with) / 1,1
+2011,Portugal,PRT,PRT,1,1,Bluetongue virus (Inf. with) / 1,1
+2011,Cyprus,CYP,CYP,16,1,Bluetongue virus (Inf. with) / 16,1
+2011,Greece,GRC,GRC,16,6,Bluetongue virus (Inf. with) / 16,1
+2011,Italy,ITA,ITA,2,5,Bluetongue virus (Inf. with) / 2,1
+2011,Cyprus,CYP,CYP,4,5,Bluetongue virus (Inf. with) / 4,1
+2011,Spain,ESP,ESP,4,2,Bluetongue virus (Inf. with) / 4,1
+2011,Greece,GRC,GRC,4,3,Bluetongue virus (Inf. with) / 4,1
+2011,Italy,ITA,ITA,8,1,Bluetongue virus (Inf. with) / 8,1
+2011,Italy,ITA,ITA,Other,4,Bluetongue virus (Inf. with) / Other,1
+2011,Cyprus,CYP,CYP,Untyped or partially typed,3,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2011,Greece,GRC,GRC,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Spain,ESP,ESP,1,9,Bluetongue virus (Inf. with) / 1,1
+2015,Croatia,HRV,HRV,1,7,Bluetongue virus (Inf. with) / 1,1
+2015,Italy,ITA,ITA,1,173,Bluetongue virus (Inf. with) / 1,1
+2015,Portugal,PRT,PRT,1,38,Bluetongue virus (Inf. with) / 1,1
+2015,Austria,AUT,AUT,4,4,Bluetongue virus (Inf. with) / 4,1
+2015,Spain,ESP,ESP,4,10,Bluetongue virus (Inf. with) / 4,1
+2015,Greece,GRC,GRC,4,1,Bluetongue virus (Inf. with) / 4,1
+2015,Croatia,HRV,HRV,4,8,Bluetongue virus (Inf. with) / 4,1
+2015,Italy,ITA,ITA,4,155,Bluetongue virus (Inf. with) / 4,1
+2015,Romania,ROU,ROU,4,20,Bluetongue virus (Inf. with) / 4,1
+2015,Slovenia,SVN,SVN,4,1,Bluetongue virus (Inf. with) / 4,1
+2015,Montenegro,MNE,MNE,4,1,Bluetongue virus (Inf. with) / 4,1
+2015,Turkey,TUR,TUR,4,1,Bluetongue virus (Inf. with) / 4,1
+2015,France,FRA,FRA,8,146,Bluetongue virus (Inf. with) / 8,1
+2015,France,FRA,FRA,Untyped or partially typed,2,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Greece,GRC,GRC,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Croatia,HRV,HRV,Untyped or partially typed,7,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Hungary,HUN,HUN,Untyped or partially typed,37,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Italy,ITA,ITA,Untyped or partially typed,24,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2015,Romania,ROU,ROU,Untyped or partially typed,10,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Belgium,BEL,BEL,Untyped or partially typed,695,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Bulgaria,BGR,BGR,Untyped or partially typed,13,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Germany,DEU,DEU,Untyped or partially typed,885,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,France,FRA,FRA,Untyped or partially typed,6,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Italy,ITA,ITA,Untyped or partially typed,236,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Luxembourg,LUX,LUX,Untyped or partially typed,5,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Netherlands,NLD,NLD,Untyped or partially typed,456,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2006,Portugal,PRT,PRT,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2005,France,FRA,FRA,16,4,Bluetongue virus (Inf. with) / 16,1
+2005,Spain,ESP,ESP,Untyped or partially typed,87,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2005,France,FRA,FRA,Untyped or partially typed,2,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,Spain,ESP,ESP,1,421,Bluetongue virus (Inf. with) / 1,1
+2009,France,FRA,FRA,1,9,Bluetongue virus (Inf. with) / 1,1
+2009,Greece,GRC,GRC,1,5,Bluetongue virus (Inf. with) / 1,1
+2009,Portugal,PRT,PRT,1,129,Bluetongue virus (Inf. with) / 1,1
+2009,Greece,GRC,GRC,16,16,Bluetongue virus (Inf. with) / 16,1
+2009,Austria,AUT,AUT,8,11,Bluetongue virus (Inf. with) / 8,1
+2009,Belgium,BEL,BEL,8,2,Bluetongue virus (Inf. with) / 8,1
+2009,Czechia,CZE,CZE,8,4,Bluetongue virus (Inf. with) / 8,1
+2009,Spain,ESP,ESP,8,6,Bluetongue virus (Inf. with) / 8,1
+2009,France,FRA,FRA,8,76,Bluetongue virus (Inf. with) / 8,1
+2009,Italy,ITA,ITA,8,67,Bluetongue virus (Inf. with) / 8,1
+2009,Luxembourg,LUX,LUX,8,2,Bluetongue virus (Inf. with) / 8,1
+2009,Netherlands,NLD,NLD,8,12,Bluetongue virus (Inf. with) / 8,1
+2009,Switzerland,CHE,CHE,8,36,Bluetongue virus (Inf. with) / 8,1
+2009,Norway,NOR,NOR,8,3,Bluetongue virus (Inf. with) / 8,1
+2009,Germany,DEU,DEU,Untyped or partially typed,142,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,Spain,ESP,ESP,Untyped or partially typed,2,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,France,FRA,FRA,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,Greece,GRC,GRC,Untyped or partially typed,170,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,Sweden,SWE,SWE,Untyped or partially typed,2,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2009,Norway,NOR,NOR,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2025,Bulgaria,BGR,BG,3,1,Bluetongue virus (Inf. with) / 3,1
+2025,Czechia,CZE,CZ,3,9,Bluetongue virus (Inf. with) / 3,1
+2025,Greece,GRC,GR,3,5,Bluetongue virus (Inf. with) / 3,1
+2025,Croatia,HRV,HR,3,3,Bluetongue virus (Inf. with) / 3,1
+2025,Hungary,HUN,HU,3,8,Bluetongue virus (Inf. with) / 3,1
+2025,Lithuania,LTU,LT,3,10,Bluetongue virus (Inf. with) / 3,1
+2025,United Kingdom,GBR,XI,3,4,Bluetongue virus (Inf. with) / 3,1
+2025,Poland,POL,PL,3,80,Bluetongue virus (Inf. with) / 3,1
+2025,Romania,ROU,RO,3,45,Bluetongue virus (Inf. with) / 3,1
+2025,Norway,NOR,NO,3,37,Bluetongue virus (Inf. with) / 3,1
+2025,Serbia,SRB,RS,3,2,Bluetongue virus (Inf. with) / 3,1
+2025,Bulgaria,BGR,BG,4,5,Bluetongue virus (Inf. with) / 4,1
+2025,Cyprus,CYP,CY,4,2,Bluetongue virus (Inf. with) / 4,1
+2025,Greece,GRC,GR,4,4,Bluetongue virus (Inf. with) / 4,1
+2025,Italy,ITA,IT,4,3,Bluetongue virus (Inf. with) / 4,1
+2025,Romania,ROU,RO,4,8,Bluetongue virus (Inf. with) / 4,1
+2025,Slovenia,SVN,SI,4,2,Bluetongue virus (Inf. with) / 4,1
+2025,Italy,ITA,IT,5,104,Bluetongue virus (Inf. with) / 5,1
+2025,Austria,AUT,AT,8,9,Bluetongue virus (Inf. with) / 8,1
+2025,Belgium,BEL,BE,8,1,Bluetongue virus (Inf. with) / 8,1
+2025,Bulgaria,BGR,BG,8,11,Bluetongue virus (Inf. with) / 8,1
+2025,Germany,DEU,DE,8,24,Bluetongue virus (Inf. with) / 8,1
+2025,Greece,GRC,GR,8,175,Bluetongue virus (Inf. with) / 8,1
+2025,Croatia,HRV,HR,8,140,Bluetongue virus (Inf. with) / 8,1
+2025,Hungary,HUN,HU,8,10,Bluetongue virus (Inf. with) / 8,1
+2025,Italy,ITA,IT,8,136,Bluetongue virus (Inf. with) / 8,1
+2025,Portugal,PRT,PT,8,1,Bluetongue virus (Inf. with) / 8,1
+2025,Romania,ROU,RO,8,2,Bluetongue virus (Inf. with) / 8,1
+2025,Slovenia,SVN,SI,8,150,Bluetongue virus (Inf. with) / 8,1
+2025,Bosnia and Herzegovina,BIH,BA,8,32,Bluetongue virus (Inf. with) / 8,1
+2025,North Macedonia,MKD,MK,8,39,Bluetongue virus (Inf. with) / 8,1
+2025,Montenegro,MNE,ME,8,158,Bluetongue virus (Inf. with) / 8,1
+2025,Serbia,SRB,RS,8,132,Bluetongue virus (Inf. with) / 8,1
+2025,Kosovo,XKX,XK,8,4,Bluetongue virus (Inf. with) / 8,1
+2017,Spain,ESP,ESP,1,6,Bluetongue virus (Inf. with) / 1,1
+2017,Italy,ITA,ITA,1,46,Bluetongue virus (Inf. with) / 1,1
+2017,Portugal,PRT,PRT,1,2,Bluetongue virus (Inf. with) / 1,1
+2017,Greece,GRC,GRC,16,7,Bluetongue virus (Inf. with) / 16,1
+2017,Turkey,TUR,TUR,16,1,Bluetongue virus (Inf. with) / 16,1
+2017,Italy,ITA,ITA,3,1,Bluetongue virus (Inf. with) / 3,1
+2017,Spain,ESP,ESP,4,3,Bluetongue virus (Inf. with) / 4,1
+2017,France,FRA,FRA,4,304,Bluetongue virus (Inf. with) / 4,1
+2017,Croatia,HRV,HRV,4,3,Bluetongue virus (Inf. with) / 4,1
+2017,Italy,ITA,ITA,4,2383,Bluetongue virus (Inf. with) / 4,1
+2017,Turkey,TUR,TUR,4,1,Bluetongue virus (Inf. with) / 4,1
+2017,France,FRA,FRA,8,2096,Bluetongue virus (Inf. with) / 8,1
+2017,Switzerland,CHE,CHE,8,2,Bluetongue virus (Inf. with) / 8,1
+2017,Spain,ESP,ESP,Other,1,Bluetongue virus (Inf. with) / Other,1
+2017,France,FRA,FRA,Untyped or partially typed,6,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2017,Italy,ITA,ITA,Untyped or partially typed,198,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2020,Spain,ESP,ESP,1,7,Bluetongue virus (Inf. with) / 1,1
+2020,Italy,ITA,ITA,1,2,Bluetongue virus (Inf. with) / 1,1
+2020,Portugal,PRT,PRT,1,2,Bluetongue virus (Inf. with) / 1,1
+2020,Greece,GRC,GRC,16,15,Bluetongue virus (Inf. with) / 16,1
+2020,Bulgaria,BGR,BGR,4,14,Bluetongue virus (Inf. with) / 4,1
+2020,Spain,ESP,ESP,4,1,Bluetongue virus (Inf. with) / 4,1
+2020,France,FRA,FRA,4,3,Bluetongue virus (Inf. with) / 4,1
+2020,Greece,GRC,GRC,4,354,Bluetongue virus (Inf. with) / 4,1
+2020,Croatia,HRV,HRV,4,37,Bluetongue virus (Inf. with) / 4,1
+2020,Italy,ITA,ITA,4,106,Bluetongue virus (Inf. with) / 4,1
+2020,Portugal,PRT,PRT,4,1,Bluetongue virus (Inf. with) / 4,1
+2020,Romania,ROU,ROU,4,1,Bluetongue virus (Inf. with) / 4,1
+2020,Bosnia and Herzegovina,BIH,BIH,4,2,Bluetongue virus (Inf. with) / 4,1
+2020,North Macedonia,MKD,MKD,4,401,Bluetongue virus (Inf. with) / 4,1
+2020,Serbia,SRB,SRB,4,9,Bluetongue virus (Inf. with) / 4,1
+2020,Belgium,BEL,BEL,8,5,Bluetongue virus (Inf. with) / 8,1
+2020,Germany,DEU,DEU,8,2,Bluetongue virus (Inf. with) / 8,1
+2020,Spain,ESP,ESP,8,24,Bluetongue virus (Inf. with) / 8,1
+2020,France,FRA,FRA,8,76,Bluetongue virus (Inf. with) / 8,1
+2020,Luxembourg,LUX,LUX,8,31,Bluetongue virus (Inf. with) / 8,1
+2020,Switzerland,CHE,CHE,8,4,Bluetongue virus (Inf. with) / 8,1
+2020,Greece,GRC,GRC,Other,3,Bluetongue virus (Inf. with) / Other,1
+2020,Italy,ITA,ITA,Other,1,Bluetongue virus (Inf. with) / Other,1
+2020,Greece,GRC,GRC,Untyped or partially typed,5,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2020,Italy,ITA,ITA,Untyped or partially typed,9,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2020,North Macedonia,MKD,MKD,Untyped or partially typed,3,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2023,Belgium,BEL,BE,3,1,Bluetongue virus (Inf. with) / 3,1
+2023,Germany,DEU,DE,3,3,Bluetongue virus (Inf. with) / 3,1
+2023,Netherlands,NLD,NL,3,14,Bluetongue virus (Inf. with) / 3,1
+2023,Spain,ESP,ES,4,15,Bluetongue virus (Inf. with) / 4,1
+2023,Netherlands,NLD,NL,Pending,18,Bluetongue virus (Inf. with) / Pending,1
+2022,Spain,ESP,ES,4,3,Bluetongue virus (Inf. with) / 4,1
+2022,Portugal,PRT,PT,4,8,Bluetongue virus (Inf. with) / 4,1
+2007,Spain,ESP,ESP,1,2,Bluetongue virus (Inf. with) / 1,1
+2007,France,FRA,FRA,1,3,Bluetongue virus (Inf. with) / 1,1
+2007,Italy,ITA,ITA,1,2,Bluetongue virus (Inf. with) / 1,1
+2007,Netherlands,NLD,NLD,1,1,Bluetongue virus (Inf. with) / 1,1
+2007,Portugal,PRT,PRT,1,86,Bluetongue virus (Inf. with) / 1,1
+2007,Italy,ITA,ITA,2,2,Bluetongue virus (Inf. with) / 2,1
+2007,Italy,ITA,ITA,4,13,Bluetongue virus (Inf. with) / 4,1
+2007,France,FRA,FRA,8,15364,Bluetongue virus (Inf. with) / 8,1
+2007,Luxembourg,LUX,LUX,8,1315,Bluetongue virus (Inf. with) / 8,1
+2007,Netherlands,NLD,NLD,8,5395,Bluetongue virus (Inf. with) / 8,1
+2007,Switzerland,CHE,CHE,8,5,Bluetongue virus (Inf. with) / 8,1
+2007,United Kingdom,GBR,GBR,8,65,Bluetongue virus (Inf. with) / 8,1
+2007,Belgium,BEL,BEL,Untyped or partially typed,6870,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Czechia,CZE,CZE,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Germany,DEU,DEU,Untyped or partially typed,20669,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Denmark,DNK,DNK,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Spain,ESP,ESP,Untyped or partially typed,7914,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,France,FRA,FRA,Untyped or partially typed,245,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Netherlands,NLD,NLD,Untyped or partially typed,402,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2007,Portugal,PRT,PRT,Untyped or partially typed,72,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2016,Spain,ESP,ESP,1,18,Bluetongue virus (Inf. with) / 1,1
+2016,Italy,ITA,ITA,1,90,Bluetongue virus (Inf. with) / 1,1
+2016,Portugal,PRT,PRT,1,33,Bluetongue virus (Inf. with) / 1,1
+2016,Austria,AUT,AUT,4,3,Bluetongue virus (Inf. with) / 4,1
+2016,Spain,ESP,ESP,4,2,Bluetongue virus (Inf. with) / 4,1
+2016,France,FRA,FRA,4,1,Bluetongue virus (Inf. with) / 4,1
+2016,Croatia,HRV,HRV,4,52,Bluetongue virus (Inf. with) / 4,1
+2016,Italy,ITA,ITA,4,926,Bluetongue virus (Inf. with) / 4,1
+2016,Slovenia,SVN,SVN,4,27,Bluetongue virus (Inf. with) / 4,1
+2016,Serbia,SRB,SRB,4,397,Bluetongue virus (Inf. with) / 4,1
+2016,Cyprus,CYP,CYP,8,171,Bluetongue virus (Inf. with) / 8,1
+2016,France,FRA,FRA,8,1540,Bluetongue virus (Inf. with) / 8,1
+2016,Italy,ITA,ITA,Other,1,Bluetongue virus (Inf. with) / Other,1
+2016,France,FRA,FRA,Untyped or partially typed,17,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2016,Greece,GRC,GRC,Untyped or partially typed,2,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2016,Italy,ITA,ITA,Untyped or partially typed,36,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2016,Bosnia and Herzegovina,BIH,BIH,Untyped or partially typed,4,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2016,Serbia,SRB,SRB,Untyped or partially typed,19,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2013,Spain,ESP,ESP,1,5,Bluetongue virus (Inf. with) / 1,1
+2013,France,FRA,FRA,1,10,Bluetongue virus (Inf. with) / 1,1
+2013,Italy,ITA,ITA,1,5987,Bluetongue virus (Inf. with) / 1,1
+2013,Italy,ITA,ITA,2,3,Bluetongue virus (Inf. with) / 2,1
+2013,Spain,ESP,ESP,4,64,Bluetongue virus (Inf. with) / 4,1
+2013,Portugal,PRT,PRT,4,10,Bluetongue virus (Inf. with) / 4,1
+2013,Italy,ITA,ITA,Untyped or partially typed,117,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2019,Italy,ITA,ITA,1,12,Bluetongue virus (Inf. with) / 1,1
+2019,Cyprus,CYP,CYP,16,2,Bluetongue virus (Inf. with) / 16,1
+2019,Greece,GRC,GRC,16,32,Bluetongue virus (Inf. with) / 16,1
+2019,Italy,ITA,ITA,3,1,Bluetongue virus (Inf. with) / 3,1
+2019,Spain,ESP,ESP,4,1,Bluetongue virus (Inf. with) / 4,1
+2019,France,FRA,FRA,4,76,Bluetongue virus (Inf. with) / 4,1
+2019,Italy,ITA,ITA,4,59,Bluetongue virus (Inf. with) / 4,1
+2019,Belgium,BEL,BEL,8,12,Bluetongue virus (Inf. with) / 8,1
+2019,Germany,DEU,DEU,8,59,Bluetongue virus (Inf. with) / 8,1
+2019,France,FRA,FRA,8,181,Bluetongue virus (Inf. with) / 8,1
+2019,Switzerland,CHE,CHE,8,53,Bluetongue virus (Inf. with) / 8,1
+2019,Italy,ITA,ITA,Other,1,Bluetongue virus (Inf. with) / Other,1
+2019,Italy,ITA,ITA,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Spain,ESP,ESP,1,13,Bluetongue virus (Inf. with) / 1,1
+2014,Italy,ITA,ITA,1,1312,Bluetongue virus (Inf. with) / 1,1
+2014,Cyprus,CYP,CYP,16,1,Bluetongue virus (Inf. with) / 16,1
+2014,Italy,ITA,ITA,2,3,Bluetongue virus (Inf. with) / 2,1
+2014,Bulgaria,BGR,BGR,4,4,Bluetongue virus (Inf. with) / 4,1
+2014,Spain,ESP,ESP,4,411,Bluetongue virus (Inf. with) / 4,1
+2014,Greece,GRC,GRC,4,15,Bluetongue virus (Inf. with) / 4,1
+2014,Croatia,HRV,HRV,4,35,Bluetongue virus (Inf. with) / 4,1
+2014,Hungary,HUN,HUN,4,21,Bluetongue virus (Inf. with) / 4,1
+2014,Italy,ITA,ITA,4,30,Bluetongue virus (Inf. with) / 4,1
+2014,Romania,ROU,ROU,4,1740,Bluetongue virus (Inf. with) / 4,1
+2014,Turkey,TUR,TUR,4,1,Bluetongue virus (Inf. with) / 4,1
+2014,Croatia,HRV,HRV,Other,1,Bluetongue virus (Inf. with) / Other,1
+2014,Bulgaria,BGR,BGR,Untyped or partially typed,2318,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Greece,GRC,GRC,Untyped or partially typed,3128,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Croatia,HRV,HRV,Untyped or partially typed,26,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Hungary,HUN,HUN,Untyped or partially typed,56,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Italy,ITA,ITA,Untyped or partially typed,176,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Romania,ROU,ROU,Untyped or partially typed,145,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2014,Montenegro,MNE,MNE,Untyped or partially typed,7,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Spain,ESP,ESP,1,2879,Bluetongue virus (Inf. with) / 1,1
+2008,France,FRA,FRA,1,4909,Bluetongue virus (Inf. with) / 1,1
+2008,Portugal,PRT,PRT,1,78,Bluetongue virus (Inf. with) / 1,1
+2008,Greece,GRC,GRC,16,3,Bluetongue virus (Inf. with) / 16,1
+2008,Germany,DEU,DEU,6,19,Bluetongue virus (Inf. with) / 6,1
+2008,Austria,AUT,AUT,8,11,Bluetongue virus (Inf. with) / 8,1
+2008,Belgium,BEL,BEL,8,45,Bluetongue virus (Inf. with) / 8,1
+2008,Czechia,CZE,CZE,8,8,Bluetongue virus (Inf. with) / 8,1
+2008,Germany,DEU,DEU,8,75,Bluetongue virus (Inf. with) / 8,1
+2008,Denmark,DNK,DNK,8,3,Bluetongue virus (Inf. with) / 8,1
+2008,Spain,ESP,ESP,8,29,Bluetongue virus (Inf. with) / 8,1
+2008,France,FRA,FRA,8,33113,Bluetongue virus (Inf. with) / 8,1
+2008,Greece,GRC,GRC,8,3,Bluetongue virus (Inf. with) / 8,1
+2008,Italy,ITA,ITA,8,5,Bluetongue virus (Inf. with) / 8,1
+2008,Luxembourg,LUX,LUX,8,19,Bluetongue virus (Inf. with) / 8,1
+2008,Netherlands,NLD,NLD,8,66,Bluetongue virus (Inf. with) / 8,1
+2008,Sweden,SWE,SWE,8,28,Bluetongue virus (Inf. with) / 8,1
+2008,Switzerland,CHE,CHE,8,42,Bluetongue virus (Inf. with) / 8,1
+2008,United Kingdom,GBR,GBR,8,70,Bluetongue virus (Inf. with) / 8,1
+2008,Czechia,CZE,CZE,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Germany,DEU,DEU,Untyped or partially typed,3008,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Denmark,DNK,DNK,Untyped or partially typed,12,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Spain,ESP,ESP,Untyped or partially typed,130,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Greece,GRC,GRC,Untyped or partially typed,72,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2008,Hungary,HUN,HUN,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2010,Spain,ESP,ESP,1,79,Bluetongue virus (Inf. with) / 1,1
+2010,France,FRA,FRA,1,1,Bluetongue virus (Inf. with) / 1,1
+2010,Italy,ITA,ITA,1,10,Bluetongue virus (Inf. with) / 1,1
+2010,Portugal,PRT,PRT,1,6,Bluetongue virus (Inf. with) / 1,1
+2010,Cyprus,CYP,CYP,16,6,Bluetongue virus (Inf. with) / 16,1
+2010,Greece,GRC,GRC,16,17,Bluetongue virus (Inf. with) / 16,1
+2010,Italy,ITA,ITA,2,14,Bluetongue virus (Inf. with) / 2,1
+2010,Spain,ESP,ESP,4,8,Bluetongue virus (Inf. with) / 4,1
+2010,Italy,ITA,ITA,4,3,Bluetongue virus (Inf. with) / 4,1
+2010,Spain,ESP,ESP,8,1,Bluetongue virus (Inf. with) / 8,1
+2010,Italy,ITA,ITA,8,6,Bluetongue virus (Inf. with) / 8,1
+2010,Switzerland,CHE,CHE,8,1,Bluetongue virus (Inf. with) / 8,1
+2010,Italy,ITA,ITA,Other,4,Bluetongue virus (Inf. with) / Other,1
+2010,Greece,GRC,GRC,Untyped or partially typed,19,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2010,Croatia,HRV,HRV,Untyped or partially typed,1,Bluetongue virus (Inf. with) / Untyped or partially typed,1
+2024,Spain,ESP,ES,1,1,Bluetongue virus (Inf. with) / 1,1
+2024,Netherlands,NLD,NL,12,1,Bluetongue virus (Inf. with) / 12,1
+2024,Austria,AUT,AT,3,216,Bluetongue virus (Inf. with) / 3,1
+2024,Czechia,CZE,CZ,3,3,Bluetongue virus (Inf. with) / 3,1
+2024,Germany,DEU,DE,3,27,Bluetongue virus (Inf. with) / 3,1
+2024,Denmark,DNK,DK,3,728,Bluetongue virus (Inf. with) / 3,1
+2024,Spain,ESP,ES,3,3,Bluetongue virus (Inf. with) / 3,1
+2024,France,FRA,FR,3,185,Bluetongue virus (Inf. with) / 3,1
+2024,Luxembourg,LUX,LU,3,2,Bluetongue virus (Inf. with) / 3,1
+2024,Netherlands,NLD,NL,3,1,Bluetongue virus (Inf. with) / 3,1
+2024,Poland,POL,PL,3,3,Bluetongue virus (Inf. with) / 3,1
+2024,Portugal,PRT,PT,3,3,Bluetongue virus (Inf. with) / 3,1
+2024,Sweden,SWE,SE,3,2,Bluetongue virus (Inf. with) / 3,1
+2024,Switzerland,CHE,CH,3,16,Bluetongue virus (Inf. with) / 3,1
+2024,Austria,AUT,AT,4,72,Bluetongue virus (Inf. with) / 4,1
+2024,Spain,ESP,ES,4,1,Bluetongue virus (Inf. with) / 4,1
+2024,Spain,ESP,ES,8,10,Bluetongue virus (Inf. with) / 8,1
+2024,Italy,ITA,IT,8,187,Bluetongue virus (Inf. with) / 8,1
+2024,Portugal,PRT,PT,8,1,Bluetongue virus (Inf. with) / 8,1
+2024,Andorra,AND,AD,8,7,Bluetongue virus (Inf. with) / 8,1
+2024,Switzerland,CHE,CH,8,1,Bluetongue virus (Inf. with) / 8,1
+2024,North Macedonia,MKD,MK,8,1,Bluetongue virus (Inf. with) / 8,1
+2024,Austria,AUT,AT,Other,1,Bluetongue virus (Inf. with) / Other,1
+2024,Austria,AUT,AT,Pending,6,Bluetongue virus (Inf. with) / Pending,1
+2024,Sweden,SWE,SE,Pending,1,Bluetongue virus (Inf. with) / Pending,1

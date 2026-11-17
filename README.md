@@ -1,10 +1,9 @@
-# Climate_and_bluetongue_outbreaks_in_Europe_(2005-2025)
 # Temperature anomalies and bluetongue outbreaks in Europe
 
 A small, reproducible analysis of whether warmer-than-usual years are associated with more
 bluetongue outbreaks in European countries.
 
-**Author:** Ali ABADA, DVM · MSc student · Predictive and Integrative Animal Biology · (Université Paris-Saclay / AgroParisTech / INRAE)
+**Author:** Ali ABADA, DVM · MSc student, M2 PRIAM (Université Paris-Saclay / AgroParisTech / INRAE)
 
 ## Data
 
@@ -13,6 +12,24 @@ bluetongue outbreaks in European countries.
 | Bluetongue outbreaks | [EU Animal Disease Information System (ADIS)](https://food.ec.europa.eu/animals/animal-diseases/animal-disease-information-system-adis_en) | Official outbreak notifications, extracted from the annual overviews and aggregated by country and year |
 | Temperature anomalies | [Our World in Data](https://ourworldindata.org/grapher/annual-temperature-anomalies), derived from Copernicus ERA5 | Annual anomaly per country vs 1991–2020 |
 | Country boundaries | [Natural Earth](https://www.naturalearthdata.com/) via `rnaturalearth` | Map polygons |
+
+## Data extraction from ADIS reports
+
+ADIS publishes its yearly outbreak overviews as PDF tables (one row per disease and serotype,
+one column per country). `scripts/extract_adis_bluetongue.py` reads the 21 reports (2005–2025)
+with `pdfplumber`, matches each count to its country column and disease row by position, and
+writes:
+
+- `data/raw/bluetongue_adis.csv`: outbreaks per country and year (199 country-years, 31 countries)
+- `data/raw/bluetongue_adis_by_serotype.csv`: the same, split by serotype, with the source page
+
+Validation: every integer in the summary tables is either assigned to a row and column or
+listed for review (the 27 unassigned values are page numbers and footnotes); 2019 and 2024
+were checked cell by cell against the PDFs; country codes were harmonised (ISO3 up to 2021,
+ISO2 from 2022).
+
+**Reporting change:** counts from 2021 onwards are much lower than before, coinciding with the
+EU Animal Health Law (applied from 21 April 2021). The models include a reporting-period term.
 
 ## Methods
 
